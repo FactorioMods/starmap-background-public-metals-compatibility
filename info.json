@@ -1,0 +1,14 @@
+{
+  "name": "starmap-background-public-metals-compatibility",
+  "version": "1.0.0",
+  "title": "Starmap Background: Public Metals Compatibility",
+  "author": "FactorioMods",
+  "factorio_version": "2.1",
+  "description": "Retargets the evaluated Mirandus orbit icon to the active public Metal graphics provider. Uses the maintained Better StarMap Background unchanged; contains no copied background code or artwork.",
+  "dependencies": [
+    "base >= 2.1.24",
+    "Better_Starmap_Background >= 2.4.2",
+    "? metal-and-stars-updated",
+    "? metal-and-stars-graphics-2-updated"
+  ]
+}

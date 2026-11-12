@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-11-12
+  Features:
+    - Resolve the evaluated Mirandus orbit asset owner before PlanetsLib consumes its decorative location.
